@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/SimpleTodoApp/static/js/main.641cc664.js",
+    "static/js/787.63e47474.chunk.js": "/SimpleTodoApp/static/js/787.63e47474.chunk.js",
+    "index.html": "/SimpleTodoApp/index.html",
+    "main.641cc664.js.map": "/SimpleTodoApp/static/js/main.641cc664.js.map",
+    "787.63e47474.chunk.js.map": "/SimpleTodoApp/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.641cc664.js"
+  ]
+}
